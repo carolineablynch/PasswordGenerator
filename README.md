@@ -16,7 +16,7 @@ https://github.com/carolineablynch/PasswordGenerator.git
 
 As seen in the screenshot below, you can click on the "generate password" button and you will be alerted with a series of prompts to specify the parameters of the password you would like to generate that the program will consider in its selection. 
 
-<img src 
+<img src=./assets/Screenshot3.png/>
 
 # License 
 Copyright (c) [2020] [Caroline Lynch]
